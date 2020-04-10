@@ -7,6 +7,6 @@
 ### smaller
 
 | hi     | bye   | 
------------------
+|--------|-------|
 | yellow | green | 
 | purple | blue  | 
