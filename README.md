@@ -6,6 +6,7 @@
 
 ### smaller
 
-|hi|bye| 
----------
-|yellow|green| 
+| hi     | bye   | 
+-----------------
+| yellow | green | 
+| purple | blue  | 
