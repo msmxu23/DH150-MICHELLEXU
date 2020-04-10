@@ -7,5 +7,5 @@
 ### smaller
 
 |hi|bye| 
-________
+---------
 |yellow|green| 
