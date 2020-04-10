@@ -6,6 +6,6 @@
 
 ### smaller
 
-hi | bye 
+|hi|bye| 
 ________
-yellow | green 
+|yellow|green| 
