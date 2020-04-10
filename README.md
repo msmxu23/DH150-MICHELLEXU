@@ -11,4 +11,4 @@
 | yellow | green | 
 | purple | blue  | 
 
-https://www.linkedin.com/in/michelle-xu-6299bb198/
+![Michelle's LinkedIn](https://www.linkedin.com/in/michelle-xu-6299bb198/)
