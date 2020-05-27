@@ -1,4 +1,4 @@
-## Project title + Your name 
+## Project title + Michelle Xu
 
 ### Introduction: a brief information about the project. 
 What is the project about? The motivation of the project and possible contribution.
