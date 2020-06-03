@@ -1,8 +1,7 @@
 ## PLURA: Peace, Love, Unity, & Respect All  
 ## Michelle Xu
 
----
-![plura loading screen](https://github.com/msmxu23/DH150-MICHELLEXU/blob/master/assignment08/PluraScreen.png) 
+<img src="https://github.com/msmxu23/DH150-MICHELLEXU/blob/master/assignment08/PluraScreen.png" height="300px">
 
 ### Introduction: 
 For this project, I will propose a new mobile app that will enhance the experiences of music listeners and event attendees. 
