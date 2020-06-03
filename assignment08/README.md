@@ -26,8 +26,6 @@ One of the biggest issues of Audius for me was that the app was too simple and m
 
 ### Competitor Analysis: Usability Testing 
 
-[![Pitch video](url-image)](https://drive.google.com/file/d/1eFxtmaEisKVp_aoaMKGSpfMF71XlZGkw/view) 
-
 <figure class=”video_container”>
 <iframe src="https://drive.google.com/file/d/1eFxtmaEisKVp_aoaMKGSpfMF71XlZGkw/preview" width="640" height="480"></iframe> 
 </figure> 
