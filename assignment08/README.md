@@ -67,7 +67,7 @@ I used Figma to create an interactive high-fidelity prototype of my mobile app, 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FXWXFG6cELdeoWtvhDmBPi3%2FDH150-HighFidelity%3Fnode-id%3D0%253A1&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
-[Click here for Interactive Prototype](https://www.figma.com/proto/XWXFG6cELdeoWtvhDmBPi3/DH150-HighFidelity?node-id=85%3A6&scaling=scale-down) 
+[>> Click here for Interactive Prototype <<](https://www.figma.com/proto/XWXFG6cELdeoWtvhDmBPi3/DH150-HighFidelity?node-id=85%3A6&scaling=scale-down) 
 
 ### Pitch video 
 Linked: 
