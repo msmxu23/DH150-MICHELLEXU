@@ -11,22 +11,30 @@ In this project, I will propose a novel ux design of the mobile app to enhance t
 ### Design statement: 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
-### Competitor analysis [assignment01 & 02]:
+### Competitor analysis: Heuristic Evaluation [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
-### User research [contextual inquiry, assignment04]:
+### Competitor Analysis: Usability Testing 
+
+### User research 
+[contextual inquiry], assignment04]:
 Summary and link to your assignment folder
 
-### UX storytelling [persona+scenario, assignment05]
+### UX storytelling 
+[persona+scenario, assignment05]
 Summary and link to your assignment folder
 
-###  Wireframe and graphic design element variation [assignment06 + part of 07]
-### Low-fidelity prototype (wireflow, assignment06)
+###  Wireframe and graphic design element variation 
+[assignment06 + part of 07]
+
+### Low-fidelity prototype (wireflow) 
+(wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FXWXFG6cELdeoWtvhDmBPi3%2FDH150-HighFidelity%3Fnode-id%3D0%253A1&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
-### High-fidelity prototype (functional/interactive prototype, assignment08)
+### High-fidelity prototype (functional/interactive prototype)
+assignment08)
 Summary statement and link to or an embedded prototype
 
 ### Optional evaluation and revision history 
