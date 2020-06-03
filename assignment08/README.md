@@ -3,6 +3,8 @@
 
 <img src=“https://github.com/msmxu23/DH150-MICHELLEXU/blob/master/assignment08/Plura%20Loading%20Screen.png”> height=“500px”
 
+![Plura_Loading_Screen](https://github.com/msmxu23/DH150-MICHELLEXU/blob/master/assignment08/Plura%20Loading%20Screen.png) 
+
 ### Introduction: 
 For this project, I will propose a new mobile app that will enhance the experiences of music listeners and event attendees. 
 Sense of community plays an important role in better promoting events and bringing more individuals to appreciate live music. 
