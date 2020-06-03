@@ -1,7 +1,7 @@
 # PLURA: Peace, Love, Unity, & Respect All  
 ## Michelle Xu
 
-<img src=“https://github.com/msmxu23/DH150-MICHELLEXU/blob/master/assignment08/Plura%20Loading%20Screen.png”> height=“500px”
+<img src=“https://github.com/msmxu23/DH150-MICHELLEXU/blob/master/assignment08/Plura%20Loading%20Screen.png” height=“300px”>
 
 ![Plura_Loading_Screen](https://github.com/msmxu23/DH150-MICHELLEXU/blob/master/assignment08/Plura%20Loading%20Screen.png) 
 
