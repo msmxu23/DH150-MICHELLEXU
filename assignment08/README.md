@@ -25,6 +25,13 @@ One of the biggest issues of Audius for me was that the app was too simple and m
 [Read more >>](https://github.com/msmxu23/DH150-Heuristic-Evaluation-MXU) 
 
 ### Competitor Analysis: Usability Testing 
+
+[![Pitch video](url-image)](https://drive.google.com/file/d/1eFxtmaEisKVp_aoaMKGSpfMF71XlZGkw/view) 
+
+<figure class=”video_container”>
+<iframe src="https://drive.google.com/file/d/1eFxtmaEisKVp_aoaMKGSpfMF71XlZGkw/preview" width="640" height="480"></iframe> 
+</figure> 
+
 Usability testing is important because it is crucial for successful user-centered design. It helps designers see what real world users would struggle with when completing a task or trying to meet a goal. By getting feedback from users, designers can make changes that improve users experiences by making the app more effective, efficient, and satisfactory.
 
 In my pilot UT, I observed what an active music lister appreciates from music mobile apps, what they find challenging, and what features or additions he would like to see to help elevate his experience. 
