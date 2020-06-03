@@ -1,7 +1,7 @@
 # PLURA: Peace, Love, Unity, & Respect All  
 ## Michelle Xu
 
-<img src=“https://github.com/msmxu23/DH150-MICHELLEXU/blob/master/assignment08/Plura%20Loading%20Screen.png” height=“500px”
+<img src=“https://github.com/msmxu23/DH150-MICHELLEXU/blob/master/assignment08/Plura%20Loading%20Screen.png”> height=“500px”
 
 ### Introduction: 
 For this project, I will propose a new mobile app that will enhance the experiences of music listeners and event attendees. 
@@ -68,11 +68,12 @@ I used Figma to create an interactive high-fidelity prototype of my mobile app, 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FXWXFG6cELdeoWtvhDmBPi3%2FDH150-HighFidelity%3Fnode-id%3D0%253A1&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
+
 **Interactive Prototype**
 [Click here](https://www.figma.com/proto/XWXFG6cELdeoWtvhDmBPi3/DH150-HighFidelity?node-id=85%3A6&scaling=scale-down) 
 
 ### Pitch video 
 (Coming soon) 
 
-### Reflectiion
+### Reflection
 Before I heard of this class, I had little to no clue as to what UI/UX was. After this class, I can say that I've learned more than I could've imagined to learn in the past ten weeks. I never would've saw myself as someone who would work in tech, because I thought it wasn't for me. But this class changed my mind and taught me about the creative side of technology. As a graduating sociology major, I didn't have a clear goal or direction of what I wanted to do, but now that I have found such an awesome career field who values human behavior majors, I feel a determination to work towards this field. This project inspired me, challenged me, and pushed me to believe in my visions and bring them to something tangible that I can share with others and connect with others. Especially in times like this, I believe that people can benefit from making new friends. I am a firm believer that music soothes the soul, so it was really exciting to learn how to make an app that I'm proud of and would like to share with the world. There's many music platforms, but I have yet to find one that involves social networking. Through this project, I learned that there are steps to bringing your thoughts to life, and it's not easy. I was able to exercise my social skills, my creative side, and my patience, and determination. I will always remember that the process to making something sucessful includes understanding people, exploring your options, and materializing everything together. I learned that it's not enough to make something look good, but for it to create great experiences.  
