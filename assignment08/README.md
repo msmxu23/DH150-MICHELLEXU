@@ -10,7 +10,7 @@ For those who attend music festivals, which mostly revolve around electronic dan
 
 Dating and social networking apps have become more and more popular, but none specifically cater to music. 
 
-Plura is designed so that people who enjoy listening to music can make friends with similar music taste, share their thoughts on new releases or events, and easily access information on live music. On the bonus side, users will be updated directly for with updates from artists they follow. 
+Plura is designed so that people who enjoy listening to music can make friends with similar music taste, share their thoughts on new releases or events, and easily access information on live music. On the bonus side, users will be updated directly  with updates from artists they follow. 
 
 Thus, I created three features that will emphasize this vision. By combining attributes from communication apps, ticket selling platforms, and social media apps like Twitter, users can experience it all on PLURA. Users will feel informed and involved in the music community without having to search or visit multiple sites. The capabilities for users to connect, communicate, and network will bring music listerners together to be a part of something bigger. 
 
