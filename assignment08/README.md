@@ -4,17 +4,19 @@
 <img src="https://msmxu23.github.io/DH150-MICHELLEXU/assignment08/PluraScreen.png" height="300px">
 
 ### Introduction: 
-For this project, I will propose a new mobile app that will enhance the experiences of music listeners and event attendees. 
-Sense of community plays an important role in better promoting events and bringing more individuals to appreciate live music. 
+For this project, I will propose a new mobile app named PLURA, which stands for Peace, Love, Unity, and Respect All. 
 
-This project will help users feel more ease and excitement when planning to go to concerts and upcoming events. Users will be able to make new friends, share opinions and thoughts on the music world, and easily access information, such as getting the latest updates from artists they like, whether it be tours or pop up performances. Users should find this app extremely informational, friendly, and easy to use. This project will hopefully serve to make the community of music listeners more excited to experience live music events. 
+For those who attend music festivals, which mostly revolve around electronic dance music (EDM), you may be familiar with the acronym: PLUR, which is the mantra that inspired the name for this app. 
 
-Thus, I create three features that are important in shaping the social aspect of music apps. Users will be informed and updated without having to take the time to go on artists personal social media and do multiple searches elsewhere. The ability to communicate with others will encourage people to be a part of something bigger.  
+However, this app is not only intended to target those who enjoy EDM, which is why I added "All" at the end. This app will strive to connect all different kinds of artists, DJs, and bands with their fans and followers on a more personal level.
+Dating and social networking apps have been getting more and more popular, but none cater specifically to music listeners. 
+
+Plura is designed so that users can make friends who enjoy the same music, share their thoughts on anything involving music, and are more encouraged to experience live music. Besides the social aspects, users will be able to easily access information and updates from the artists they follow. 
+
+Thus, I created three features that are unique compared to other music apps. By combining attributes from communication apps, ticket selling platforms, and social media apps like Twitter, users will feel like they can experience it all on Plura. Users will be informed and updated without having to make various searches on many other platforms. The apps' capabilities for users to connect, communicate, and network will bring music lovers together to be a part of something bigger. 
 
 ### Design statement: 
-Currently, there aren't any music apps that I know of that allow for social networking or making new friends the way friendly networking apps like Bumble and LinkedIn do. The purpose of this project is to make an app for music listeners to have more social interactions and be able to connect with those around them through something they enjoy. The issue is that many people love music but it's hard for them to make friends who have similar music taste. People may also not be as motivated to go to events because sometimes they don't have friends to go with and they're afraid or uncomfortable going alone. This app will bring those who have the same music taste to connect with others and make new friends!
-
-Through the app, users will be able to feel comfortable voicing their opinions, have the opportunity to make new friends, while having an efficient and effortless way to find out what's new with the artists they follow or recommended artists. 
+Currently, there are no social networking apps that focus on the music world. The reason why I created PLURA is so that people can communicate through music and make meaningful connections. Many people enjoy music but don't have a specific place to go to connect with others over music. This app will bring those who have similar music taste to connect with each other and feel more involved in a community. Through the app, users will be able to feel comfortable voicing their opinions, have the opportunity to express themselves through music, while efficiently and effortlessly find out what's new. 
 
 ### Competitor analysis: Heuristic Evaluation 
 I conducted a heuristic evaluation on two music streaming mobile apps, named Audius and Audiomack. I chose to analyze these two because they had very different approaches and styles. By evaluating them with the 10 heuristics made by N/N Group, I saw what I needed to incorporate and don't incorporate on my app. 
