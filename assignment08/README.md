@@ -7,7 +7,7 @@
 For this project, I will propose a new mobile app that will enhance the experiences of music listeners and event attendees. 
 Sense of community plays an important role in better promoting events and bringing more individuals to appreciate live music. 
 
-This project will help users feel more ease and excitement when planning to go to concerts and upcoming events. Users will be able to easily access information and find the latest updates with artists they like, whether it be tours, meet & greets, or pop up performances. Users should find this app extremely informational, friendly, and easy to use. This project will hopefully serve to make the community of music listeners more excited to experience live music events. 
+This project will help users feel more ease and excitement when planning to go to concerts and upcoming events. Users will be able to make new friends, share opinions and thoughts on the music world, and easily access information, such as getting the latest updates from artists they like, whether it be tours or pop up performances. Users should find this app extremely informational, friendly, and easy to use. This project will hopefully serve to make the community of music listeners more excited to experience live music events. 
 
 Thus, I create three features that are important in shaping the social aspect of music apps. Users will be informed and updated without having to take the time to go on artists personal social media and do multiple searches elsewhere. The ability to communicate with others will encourage people to be a part of something bigger.  
 
